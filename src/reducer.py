@@ -9,6 +9,7 @@ def reducer():
     name_space = list()
     
     for line in sys.stdin:
+        print line
         data = line.strip().split('\t')
         if len(data) != 3:
             continue
