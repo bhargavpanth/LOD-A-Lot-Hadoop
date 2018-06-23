@@ -1,0 +1,736 @@
+<HESAInst:H-0047:Person:MaverTW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:McInnesSJ> <http://www.aktors.org/ontology/portal#name> "McInnes S J" .
+<HESAInst:H-0047:Person:McInnesSJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:MedlandP> <http://www.aktors.org/ontology/portal#name> "Medland, P." .
+<HESAInst:H-0047:Person:MedlandP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:MichovaZ> <http://www.aktors.org/ontology/portal#name> "Michova, Z" .
+<HESAInst:H-0047:Person:MichovaZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:MikeJefferyes> <http://www.aktors.org/ontology/portal#name> "Mike Jefferyes" .
+<HESAInst:H-0047:Person:MikeJefferyes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:MilehamAR> <http://www.aktors.org/ontology/portal#name> "Mileham, A.R." .
+<HESAInst:H-0047:Person:MilehamAR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:MirzaeeI> <http://www.aktors.org/ontology/portal#name> "Mirzaee, I" .
+<HESAInst:H-0047:Person:MirzaeeI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:MollonJD> <http://www.aktors.org/ontology/portal#name> "Mollon JD" .
+<HESAInst:H-0047:Person:MollonJD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:MooreAT> <http://www.aktors.org/ontology/portal#name> "Moore AT" .
+<HESAInst:H-0047:Person:MooreAT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:MootanahR> <http://www.aktors.org/ontology/portal#name> "Mootanah, R" .
+<HESAInst:H-0047:Person:MootanahR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:MorwennaGriffiths> <http://www.aktors.org/ontology/portal#name> "Morwenna Griffiths" .
+<HESAInst:H-0047:Person:MorwennaGriffiths> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:MoylesJ> <http://www.aktors.org/ontology/portal#name> "Moyles, J." .
+<HESAInst:H-0047:Person:MoylesJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:MughanT> <http://www.aktors.org/ontology/portal#name> "Mughan, T" .
+<HESAInst:H-0047:Person:MughanT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:MunroeLJA> <http://www.aktors.org/ontology/portal#name> "Munroe L J A" .
+<HESAInst:H-0047:Person:MunroeLJA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:NanHenderson> <http://www.aktors.org/ontology/portal#name> "Nan Henderson" .
+<HESAInst:H-0047:Person:NanHenderson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:NataliC> <http://www.aktors.org/ontology/portal#name> "Natali, C" .
+<HESAInst:H-0047:Person:NataliC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:NicolescuO> <http://www.aktors.org/ontology/portal#name> "Nicolescu, O" .
+<HESAInst:H-0047:Person:NicolescuO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:NorthmoreBallMD> <http://www.aktors.org/ontology/portal#name> "Northmore-Ball, MD" .
+<HESAInst:H-0047:Person:NorthmoreBallMD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:NyvltD> <http://www.aktors.org/ontology/portal#name> "Nyvlt D" .
+<HESAInst:H-0047:Person:NyvltD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:OduwaiyeK> <http://www.aktors.org/ontology/portal#name> "Oduwaiye K" .
+<HESAInst:H-0047:Person:OduwaiyeK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:OgbuehiK> <http://www.aktors.org/ontology/portal#name> "Ogbuehi K" .
+<HESAInst:H-0047:Person:OgbuehiK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:PGFoote> <http://www.aktors.org/ontology/portal#name> "P. G. Foote" .
+<HESAInst:H-0047:Person:PGFoote> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:PHolman> <http://www.aktors.org/ontology/portal#name> "P. Holman" .
+<HESAInst:H-0047:Person:PHolman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:PMeara> <http://www.aktors.org/ontology/portal#name> "P Meara" .
+<HESAInst:H-0047:Person:PMeara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:ParkerDL> <http://www.aktors.org/ontology/portal#name> "Parker D L" .
+<HESAInst:H-0047:Person:ParkerDL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:PatrickWest> <http://www.aktors.org/ontology/portal#name> "Patrick West" .
+<HESAInst:H-0047:Person:PatrickWest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:PaulaSobiechowska> <http://www.aktors.org/ontology/portal#name> "Paula Sobiechowska" .
+<HESAInst:H-0047:Person:PaulaSobiechowska> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:PearsePrattR> <http://www.aktors.org/ontology/portal#name> "Pearse-Pratt R" .
+<HESAInst:H-0047:Person:PearsePrattR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:PellizzerS> <http://www.aktors.org/ontology/portal#name> "Pellizzer S" .
+<HESAInst:H-0047:Person:PellizzerS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:PennG> <http://www.aktors.org/ontology/portal#name> "Penn G" .
+<HESAInst:H-0047:Person:PennG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:PenningRowsellEC> <http://www.aktors.org/ontology/portal#name> "Penning-Rowsell E C" .
+<HESAInst:H-0047:Person:PenningRowsellEC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:PhiloC> <http://www.aktors.org/ontology/portal#name> "Philo, C." .
+<HESAInst:H-0047:Person:PhiloC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:PoynterBrownR> <http://www.aktors.org/ontology/portal#name> "Poynter-Brown R." .
+<HESAInst:H-0047:Person:PoynterBrownR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:PrestonCD> <http://www.aktors.org/ontology/portal#name> "Preston C D" .
+<HESAInst:H-0047:Person:PrestonCD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:RMacdonald> <http://www.aktors.org/ontology/portal#name> "R. Macdonald" .
+<HESAInst:H-0047:Person:RMacdonald> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:RMiddlehurst> <http://www.aktors.org/ontology/portal#name> "R. Middlehurst" .
+<HESAInst:H-0047:Person:RMiddlehurst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:RPilkington> <http://www.aktors.org/ontology/portal#name> "R Pilkington" .
+<HESAInst:H-0047:Person:RPilkington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:RTenberg> <http://www.aktors.org/ontology/portal#name> "R Tenberg" .
+<HESAInst:H-0047:Person:RTenberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:RayClark> <http://www.aktors.org/ontology/portal#name> "Ray Clark" .
+<HESAInst:H-0047:Person:RayClark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:ReesB> <http://www.aktors.org/ontology/portal#name> "Rees, B" .
+<HESAInst:H-0047:Person:ReesB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:ReesBronwen> <http://www.aktors.org/ontology/portal#name> "Rees, Bronwen" .
+<HESAInst:H-0047:Person:ReesBronwen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:ReganBC> <http://www.aktors.org/ontology/portal#name> "Regan BC" .
+<HESAInst:H-0047:Person:ReganBC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:RendellHM> <http://www.aktors.org/ontology/portal#name> "Rendell H M" .
+<HESAInst:H-0047:Person:RendellHM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:RhodriDavies> <http://www.aktors.org/ontology/portal#name> "Rhodri Davies" .
+<HESAInst:H-0047:Person:RhodriDavies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:RichardWinter> <http://www.aktors.org/ontology/portal#name> "Richard Winter" .
+<HESAInst:H-0047:Person:RichardWinter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:RichardsMPM> <http://www.aktors.org/ontology/portal#name> "Richards MPM" .
+<HESAInst:H-0047:Person:RichardsMPM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:RobertsonI> <http://www.aktors.org/ontology/portal#name> "Robertson I" .
+<HESAInst:H-0047:Person:RobertsonI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:RobinsonD> <http://www.aktors.org/ontology/portal#name> "Robinson D." .
+<HESAInst:H-0047:Person:RobinsonD> <http://www.aktors.org/ontology/portal#name> "Robinson, D" .
+<HESAInst:H-0047:Person:RobinsonD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:RogerWelch> <http://www.aktors.org/ontology/portal#name> "Roger Welch" .
+<HESAInst:H-0047:Person:RogerWelch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:RolfeJ> <http://www.aktors.org/ontology/portal#name> "Rolfe J" .
+<HESAInst:H-0047:Person:RolfeJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:RoyceC> <http://www.aktors.org/ontology/portal#name> "Royce, C" .
+<HESAInst:H-0047:Person:RoyceC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:RrykeM> <http://www.aktors.org/ontology/portal#name> "Rryke, M" .
+<HESAInst:H-0047:Person:RrykeM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:SAdiqS> <http://www.aktors.org/ontology/portal#name> "SAdiq, S" .
+<HESAInst:H-0047:Person:SAdiqS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:SBjarnason> <http://www.aktors.org/ontology/portal#name> "S. Bjarnason" .
+<HESAInst:H-0047:Person:SBjarnason> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:SWaller> <http://www.aktors.org/ontology/portal#name> "S Waller" .
+<HESAInst:H-0047:Person:SWaller> <http://www.aktors.org/ontology/portal#name> "S.Waller" .
+<HESAInst:H-0047:Person:SWaller> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:SalamanG> <http://www.aktors.org/ontology/portal#name> "Salaman, G" .
+<HESAInst:H-0047:Person:SalamanG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:SaraMaitland> <http://www.aktors.org/ontology/portal#name> "Sara Maitland" .
+<HESAInst:H-0047:Person:SaraMaitland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:SchellinckH> <http://www.aktors.org/ontology/portal#name> "Schellinck H" .
+<HESAInst:H-0047:Person:SchellinckH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:SchormansJA> <http://www.aktors.org/ontology/portal#name> "Schormans, J.A." .
+<HESAInst:H-0047:Person:SchormansJA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:SenS> <http://www.aktors.org/ontology/portal#name> "Sen S" .
+<HESAInst:H-0047:Person:SenS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:SheailJ> <http://www.aktors.org/ontology/portal#name> "Sheail J" .
+<HESAInst:H-0047:Person:SheailJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:ShirvaniA> <http://www.aktors.org/ontology/portal#name> "Shirvani A" .
+<HESAInst:H-0047:Person:ShirvaniA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:SimonGardiner> <http://www.aktors.org/ontology/portal#name> "Simon Gardiner" .
+<HESAInst:H-0047:Person:SimonGardiner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:SimonVincent> <http://www.aktors.org/ontology/portal#name> "Simon Vincent" .
+<HESAInst:H-0047:Person:SimonVincent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:SivaloganathanS> <http://www.aktors.org/ontology/portal#name> "Sivaloganathan, S" .
+<HESAInst:H-0047:Person:SivaloganathanS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:SmeetsPM> <http://www.aktors.org/ontology/portal#name> "Smeets, PM" .
+<HESAInst:H-0047:Person:SmeetsPM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:StephenMosley> <http://www.aktors.org/ontology/portal#name> "Stephen Mosley" .
+<HESAInst:H-0047:Person:StephenMosley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:SteveCannie> <http://www.aktors.org/ontology/portal#name> "Steve Cannie" .
+<HESAInst:H-0047:Person:SteveCannie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:StewartNF> <http://www.aktors.org/ontology/portal#name> "Stewart N F" .
+<HESAInst:H-0047:Person:StewartNF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:StottK> <http://www.aktors.org/ontology/portal#name> "Stott, K." .
+<HESAInst:H-0047:Person:StottK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:StrangeC> <http://www.aktors.org/ontology/portal#name> "Strange, C" .
+<HESAInst:H-0047:Person:StrangeC> <http://www.aktors.org/ontology/portal#name> "Strange, C." .
+<HESAInst:H-0047:Person:StrangeC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:SwarbrickHA> <http://www.aktors.org/ontology/portal#name> "Swarbrick HA" .
+<HESAInst:H-0047:Person:SwarbrickHA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:SweeneyDF> <http://www.aktors.org/ontology/portal#name> "Sweeney DF" .
+<HESAInst:H-0047:Person:SweeneyDF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:SweetCS> <http://www.aktors.org/ontology/portal#name> "Sweet C S" .
+<HESAInst:H-0047:Person:SweetCS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:SwitsurVR> <http://www.aktors.org/ontology/portal#name> "Switsur V R" .
+<HESAInst:H-0047:Person:SwitsurVR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:SylviaBackemeyer> <http://www.aktors.org/ontology/portal#name> "Sylvia Backemeyer" .
+<HESAInst:H-0047:Person:SylviaBackemeyer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:TabberrerS> <http://www.aktors.org/ontology/portal#name> "Tabberrer S" .
+<HESAInst:H-0047:Person:TabberrerS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:TaylorMike> <http://www.aktors.org/ontology/portal#name> "Taylor, Mike" .
+<HESAInst:H-0047:Person:TaylorMike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:TobyBrandon> <http://www.aktors.org/ontology/portal#name> "Toby Brandon" .
+<HESAInst:H-0047:Person:TobyBrandon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:TonerK> <http://www.aktors.org/ontology/portal#name> "Toner, K" .
+<HESAInst:H-0047:Person:TonerK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:TrompenaarsF> <http://www.aktors.org/ontology/portal#name> "Trompenaars, F" .
+<HESAInst:H-0047:Person:TrompenaarsF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:TselentakisG> <http://www.aktors.org/ontology/portal#name> "Tselentakis, G" .
+<HESAInst:H-0047:Person:TselentakisG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:TurnerM> <http://www.aktors.org/ontology/portal#name> "Turner, M." .
+<HESAInst:H-0047:Person:TurnerM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:VannasA> <http://www.aktors.org/ontology/portal#name> "Vannas A" .
+<HESAInst:H-0047:Person:VannasA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:VatevI> <http://www.aktors.org/ontology/portal#name> "Vatev, I" .
+<HESAInst:H-0047:Person:VatevI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:VotrubaM> <http://www.aktors.org/ontology/portal#name> "Votruba M" .
+<HESAInst:H-0047:Person:VotrubaM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:WadeRH> <http://www.aktors.org/ontology/portal#name> "Wade, RH" .
+<HESAInst:H-0047:Person:WadeRH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:WadsworthMEJ> <http://www.aktors.org/ontology/portal#name> "Wadsworth MEJ" .
+<HESAInst:H-0047:Person:WadsworthMEJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:WallaceJ> <http://www.aktors.org/ontology/portal#name> "Wallace J" .
+<HESAInst:H-0047:Person:WallaceJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:WaterhouseJS> <http://www.aktors.org/ontology/portal#name> "Waterhouse J S" .
+<HESAInst:H-0047:Person:WaterhouseJS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:WebsterA> <http://www.aktors.org/ontology/portal#name> "Webster A" .
+<HESAInst:H-0047:Person:WebsterA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:WeetmanP> <http://www.aktors.org/ontology/portal#name> "Weetman, P" .
+<HESAInst:H-0047:Person:WeetmanP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:WendySuschitzky> <http://www.aktors.org/ontology/portal#name> "Wendy Suschitzky" .
+<HESAInst:H-0047:Person:WendySuschitzky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:WestRG> <http://www.aktors.org/ontology/portal#name> "West R G" .
+<HESAInst:H-0047:Person:WestRG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:WhiteheadC> <http://www.aktors.org/ontology/portal#name> "Whitehead, C" .
+<HESAInst:H-0047:Person:WhiteheadC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:WiggintonMJ> <http://www.aktors.org/ontology/portal#name> "Wigginton M J" .
+<HESAInst:H-0047:Person:WiggintonMJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:WilliamsStephanie> <http://www.aktors.org/ontology/portal#name> "Williams, Stephanie" .
+<HESAInst:H-0047:Person:WilliamsStephanie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:WinterR> <http://www.aktors.org/ontology/portal#name> "Winter R" .
+<HESAInst:H-0047:Person:WinterR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:WisnerB> <http://www.aktors.org/ontology/portal#name> "Wisner B" .
+<HESAInst:H-0047:Person:WisnerB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:WongG> <http://www.aktors.org/ontology/portal#name> "Wong G" .
+<HESAInst:H-0047:Person:WongG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:WoolliamsP> <http://www.aktors.org/ontology/portal#name> "Woolliams, P" .
+<HESAInst:H-0047:Person:WoolliamsP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:WrightIC> <http://www.aktors.org/ontology/portal#name> "Wright, I C" .
+<HESAInst:H-0047:Person:WrightIC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:XieRZ> <http://www.aktors.org/ontology/portal#name> "Xie RZ" .
+<HESAInst:H-0047:Person:XieRZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:YousefSY> <http://www.aktors.org/ontology/portal#name> "Yousef, S.Y." .
+<HESAInst:H-0047:Person:YousefSY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0047:Person:duGayP> <http://www.aktors.org/ontology/portal#name> "du Gay, P" .
+<HESAInst:H-0047:Person:duGayP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:AWebster> <http://www.aktors.org/ontology/portal#name> "A. Webster" .
+<HESAInst:H-0048:Person:AWebster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:AdamsM> <http://www.aktors.org/ontology/portal#name> "Adams, M." .
+<HESAInst:H-0048:Person:AdamsM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:AfnanM> <http://www.aktors.org/ontology/portal#name> "Afnan, M." .
+<HESAInst:H-0048:Person:AfnanM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:AiroM> <http://www.aktors.org/ontology/portal#name> "Airo, M." .
+<HESAInst:H-0048:Person:AiroM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:AlanBooth> <http://www.aktors.org/ontology/portal#name> "Alan Booth" .
+<HESAInst:H-0048:Person:AlanBooth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:AlbersJ> <http://www.aktors.org/ontology/portal#name> "Albers, J." .
+<HESAInst:H-0048:Person:AlbersJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:AtkinsonN> <http://www.aktors.org/ontology/portal#name> "Atkinson, N." .
+<HESAInst:H-0048:Person:AtkinsonN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:AylieffF> <http://www.aktors.org/ontology/portal#name> "Aylieff, F." .
+<HESAInst:H-0048:Person:AylieffF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:BalasC> <http://www.aktors.org/ontology/portal#name> "Balas, C." .
+<HESAInst:H-0048:Person:BalasC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:BalasCE> <http://www.aktors.org/ontology/portal#name> "Balas, C. E." .
+<HESAInst:H-0048:Person:BalasCE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:BannerF> <http://www.aktors.org/ontology/portal#name> "Banner, F." .
+<HESAInst:H-0048:Person:BannerF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:BarkerH> <http://www.aktors.org/ontology/portal#name> "Barker, H." .
+<HESAInst:H-0048:Person:BarkerH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:BarlowP> <http://www.aktors.org/ontology/portal#name> "Barlow, P." .
+<HESAInst:H-0048:Person:BarlowP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:BartoliniM> <http://www.aktors.org/ontology/portal#name> "Bartolini, M." .
+<HESAInst:H-0048:Person:BartoliniM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:BatchelorD> <http://www.aktors.org/ontology/portal#name> "Batchelor, D." .
+<HESAInst:H-0048:Person:BatchelorD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:BeattieB> <http://www.aktors.org/ontology/portal#name> "Beattie, B." .
+<HESAInst:H-0048:Person:BeattieB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:BellD> <http://www.aktors.org/ontology/portal#name> "Bell, D." .
+<HESAInst:H-0048:Person:BellD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:BelovAP> <http://www.aktors.org/ontology/portal#name> "Belov, A. P." .
+<HESAInst:H-0048:Person:BelovAP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:BohnK> <http://www.aktors.org/ontology/portal#name> "Bohn, K." .
+<HESAInst:H-0048:Person:BohnK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:BomboeP> <http://www.aktors.org/ontology/portal#name> "Bomboe, P." .
+<HESAInst:H-0048:Person:BomboeP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:BoyleM> <http://www.aktors.org/ontology/portal#name> "Boyle, M." .
+<HESAInst:H-0048:Person:BoyleM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:BrittonA> <http://www.aktors.org/ontology/portal#name> "Britton, A." .
+<HESAInst:H-0048:Person:BrittonA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:BryantEA> <http://www.aktors.org/ontology/portal#name> "Bryant, E.A." .
+<HESAInst:H-0048:Person:BryantEA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:BryarsJ> <http://www.aktors.org/ontology/portal#name> "Bryars, J." .
+<HESAInst:H-0048:Person:BryarsJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:CDTDesign> <http://www.aktors.org/ontology/portal#name> "CDT Design" .
+<HESAInst:H-0048:Person:CDTDesign> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:CardR> <http://www.aktors.org/ontology/portal#name> "Card, R." .
+<HESAInst:H-0048:Person:CardR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:CartlidgeLevine> <http://www.aktors.org/ontology/portal#name> "Cartlidge Levine" .
+<HESAInst:H-0048:Person:CartlidgeLevine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:CastagnoL> <http://www.aktors.org/ontology/portal#name> "Castagno , L." .
+<HESAInst:H-0048:Person:CastagnoL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:ChambersS> <http://www.aktors.org/ontology/portal#name> "Chambers, S." .
+<HESAInst:H-0048:Person:ChambersS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:ConnearnD> <http://www.aktors.org/ontology/portal#name> "Connearn, D." .
+<HESAInst:H-0048:Person:ConnearnD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:ConstantasM> <http://www.aktors.org/ontology/portal#name> "Constantas, M" .
+<HESAInst:H-0048:Person:ConstantasM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:CooperE> <http://www.aktors.org/ontology/portal#name> "Cooper, E." .
+<HESAInst:H-0048:Person:CooperE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:CraigS> <http://www.aktors.org/ontology/portal#name> "Craig, S." .
+<HESAInst:H-0048:Person:CraigS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:CrosbyC> <http://www.aktors.org/ontology/portal#name> "Crosby, C." .
+<HESAInst:H-0048:Person:CrosbyC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:CrozierA> <http://www.aktors.org/ontology/portal#name> "Crozier, A." .
+<HESAInst:H-0048:Person:CrozierA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:CumminsS> <http://www.aktors.org/ontology/portal#name> "Cummins, S." .
+<HESAInst:H-0048:Person:CumminsS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:CurneenC> <http://www.aktors.org/ontology/portal#name> "Curneen, C." .
+<HESAInst:H-0048:Person:CurneenC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:CurrR> <http://www.aktors.org/ontology/portal#name> "Curr, R" .
+<HESAInst:H-0048:Person:CurrR> <http://www.aktors.org/ontology/portal#name> "Curr, R." .
+<HESAInst:H-0048:Person:CurrR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:CushD> <http://www.aktors.org/ontology/portal#name> "Cush, D." .
+<HESAInst:H-0048:Person:CushD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:DalwoodD> <http://www.aktors.org/ontology/portal#name> "Dalwood, D." .
+<HESAInst:H-0048:Person:DalwoodD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:DaviesP> <http://www.aktors.org/ontology/portal#name> "Davies, P." .
+<HESAInst:H-0048:Person:DaviesP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:DennisP> <http://www.aktors.org/ontology/portal#name> "Dennis, P." .
+<HESAInst:H-0048:Person:DennisP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:DoigP> <http://www.aktors.org/ontology/portal#name> "Doig, P." .
+<HESAInst:H-0048:Person:DoigP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:DysonJ> <http://www.aktors.org/ontology/portal#name> "Dyson, J." .
+<HESAInst:H-0048:Person:DysonJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:EdwardsE> <http://www.aktors.org/ontology/portal#name> "Edwards, E." .
+<HESAInst:H-0048:Person:EdwardsE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:EglintonG> <http://www.aktors.org/ontology/portal#name> "Eglinton, G." .
+<HESAInst:H-0048:Person:EglintonG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:ElfynM> <http://www.aktors.org/ontology/portal#name> "Elfyn, M." .
+<HESAInst:H-0048:Person:ElfynM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:ErginA> <http://www.aktors.org/ontology/portal#name> "Ergin, A." .
+<HESAInst:H-0048:Person:ErginA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:ErmesAO> <http://www.aktors.org/ontology/portal#name> "Ermes, A. O." .
+<HESAInst:H-0048:Person:ErmesAO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:FearnsR> <http://www.aktors.org/ontology/portal#name> "Fearns, R." .
+<HESAInst:H-0048:Person:FearnsR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:ForsterC> <http://www.aktors.org/ontology/portal#name> "Forster, C." .
+<HESAInst:H-0048:Person:ForsterC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:FosterC> <http://www.aktors.org/ontology/portal#name> "Foster, C." .
+<HESAInst:H-0048:Person:FosterC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:FouilhouxJF> <http://www.aktors.org/ontology/portal#name> "Fouilhoux, J.F." .
+<HESAInst:H-0048:Person:FouilhouxJF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:Francis> <http://www.aktors.org/ontology/portal#name> "Francis" .
+<HESAInst:H-0048:Person:Francis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:FrancisM> <http://www.aktors.org/ontology/portal#name> "Francis, M." .
+<HESAInst:H-0048:Person:FrancisM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:FrizeB> <http://www.aktors.org/ontology/portal#name> "Frize, B." .
+<HESAInst:H-0048:Person:FrizeB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:FunnellBM> <http://www.aktors.org/ontology/portal#name> "Funnell, B. M." .
+<HESAInst:H-0048:Person:FunnellBM> <http://www.aktors.org/ontology/portal#name> "Funnell, B.M" .
+<HESAInst:H-0048:Person:FunnellBM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:GaigerJ> <http://www.aktors.org/ontology/portal#name> "Gaiger, J." .
+<HESAInst:H-0048:Person:GaigerJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:GaleCH> <http://www.aktors.org/ontology/portal#name> "Gale, C.H." .
+<HESAInst:H-0048:Person:GaleCH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:GappmayerH> <http://www.aktors.org/ontology/portal#name> "Gappmayer, H." .
+<HESAInst:H-0048:Person:GappmayerH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:GilroyP> <http://www.aktors.org/ontology/portal#name> "Gilroy, P." .
+<HESAInst:H-0048:Person:GilroyP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:GotyW> <http://www.aktors.org/ontology/portal#name> "Goty, W." .
+<HESAInst:H-0048:Person:GotyW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:GriffinR> <http://www.aktors.org/ontology/portal#name> "Griffin, R." .
+<HESAInst:H-0048:Person:GriffinR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:GriffithsC> <http://www.aktors.org/ontology/portal#name> "Griffiths, C." .
+<HESAInst:H-0048:Person:GriffithsC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:GrimesCJ> <http://www.aktors.org/ontology/portal#name> "Grimes, C. J." .
+<HESAInst:H-0048:Person:GrimesCJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:HGibson> <http://www.aktors.org/ontology/portal#name> "H. Gibson" .
+<HESAInst:H-0048:Person:HGibson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:HaleM> <http://www.aktors.org/ontology/portal#name> "Hale, M." .
+<HESAInst:H-0048:Person:HaleM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:HalesG> <http://www.aktors.org/ontology/portal#name> "Hales, G." .
+<HESAInst:H-0048:Person:HalesG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:HallD> <http://www.aktors.org/ontology/portal#name> "Hall,  D." .
+<HESAInst:H-0048:Person:HallD> <http://www.aktors.org/ontology/portal#name> "Hall, D." .
+<HESAInst:H-0048:Person:HallD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:HallM> <http://www.aktors.org/ontology/portal#name> "Hall, M." .
+<HESAInst:H-0048:Person:HallM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:HamiltonFinlayI> <http://www.aktors.org/ontology/portal#name> "Hamilton Finlay, I." .
+<HESAInst:H-0048:Person:HamiltonFinlayI> <http://www.aktors.org/ontology/portal#name> "Hamilton-Finlay, I." .
+<HESAInst:H-0048:Person:HamiltonFinlayI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:HamiltonR> <http://www.aktors.org/ontology/portal#name> "Hamilton, R." .
+<HESAInst:H-0048:Person:HamiltonR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:Hapaska> <http://www.aktors.org/ontology/portal#name> "Hapaska" .
+<HESAInst:H-0048:Person:Hapaska> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:HarlandB> <http://www.aktors.org/ontology/portal#name> "Harland, B." .
+<HESAInst:H-0048:Person:HarlandB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:HarloudB> <http://www.aktors.org/ontology/portal#name> "Harloud, B." .
+<HESAInst:H-0048:Person:HarloudB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:HarrisJ> <http://www.aktors.org/ontology/portal#name> "Harris, J." .
+<HESAInst:H-0048:Person:HarrisJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:HarrisonC> <http://www.aktors.org/ontology/portal#name> "Harrison, C." .
+<HESAInst:H-0048:Person:HarrisonC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:HasleD> <http://www.aktors.org/ontology/portal#name> "Hasle, D." .
+<HESAInst:H-0048:Person:HasleD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:HaslettS> <http://www.aktors.org/ontology/portal#name> "Haslett, S" .
+<HESAInst:H-0048:Person:HaslettS> <http://www.aktors.org/ontology/portal#name> "Haslett, S." .
+<HESAInst:H-0048:Person:HaslettS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:HenriA> <http://www.aktors.org/ontology/portal#name> "Henri, A." .
+<HESAInst:H-0048:Person:HenriA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:HirstD> <http://www.aktors.org/ontology/portal#name> "Hirst, D." .
+<HESAInst:H-0048:Person:HirstD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:HobermanN> <http://www.aktors.org/ontology/portal#name> "Hoberman, N." .
+<HESAInst:H-0048:Person:HobermanN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:HoskingM> <http://www.aktors.org/ontology/portal#name> "Hosking, M." .
+<HESAInst:H-0048:Person:HoskingM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:HoskinsS> <http://www.aktors.org/ontology/portal#name> "Hoskins, S." .
+<HESAInst:H-0048:Person:HoskinsS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:HouseJ> <http://www.aktors.org/ontology/portal#name> "House,  J." .
+<HESAInst:H-0048:Person:HouseJ> <http://www.aktors.org/ontology/portal#name> "House, J." .
+<HESAInst:H-0048:Person:HouseJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:HoushiaryS> <http://www.aktors.org/ontology/portal#name> "Houshiary, S." .
+<HESAInst:H-0048:Person:HoushiaryS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:HumeG> <http://www.aktors.org/ontology/portal#name> "Hume, G." .
+<HESAInst:H-0048:Person:HumeG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:IkinJ> <http://www.aktors.org/ontology/portal#name> "Ikin, J." .
+<HESAInst:H-0048:Person:IkinJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:JarmanD> <http://www.aktors.org/ontology/portal#name> "Jarman, D." .
+<HESAInst:H-0048:Person:JarmanD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:JonesJ> <http://www.aktors.org/ontology/portal#name> "Jones, J." .
+<HESAInst:H-0048:Person:JonesJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:JosephP> <http://www.aktors.org/ontology/portal#name> "Joseph, P." .
+<HESAInst:H-0048:Person:JosephP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:KeelerW> <http://www.aktors.org/ontology/portal#name> "Keeler, W." .
+<HESAInst:H-0048:Person:KeelerW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:KenningtonK> <http://www.aktors.org/ontology/portal#name> "Kennington, K" .
+<HESAInst:H-0048:Person:KenningtonK> <http://www.aktors.org/ontology/portal#name> "Kennington, K." .
+<HESAInst:H-0048:Person:KenningtonK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:KirkJ> <http://www.aktors.org/ontology/portal#name> "Kirk, J." .
+<HESAInst:H-0048:Person:KirkJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:KnightL> <http://www.aktors.org/ontology/portal#name> "Knight, L." .
+<HESAInst:H-0048:Person:KnightL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:KohA> <http://www.aktors.org/ontology/portal#name> "Koh,  A." .
+<HESAInst:H-0048:Person:KohA> <http://www.aktors.org/ontology/portal#name> "Koh, A." .
+<HESAInst:H-0048:Person:KohA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:LaskerJ> <http://www.aktors.org/ontology/portal#name> "Lasker, J." .
+<HESAInst:H-0048:Person:LaskerJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:LeesM> <http://www.aktors.org/ontology/portal#name> "Lees, M." .
+<HESAInst:H-0048:Person:LeesM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:LewisS> <http://www.aktors.org/ontology/portal#name> "Lewis, S." .
+<HESAInst:H-0048:Person:LewisS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:LoweP> <http://www.aktors.org/ontology/portal#name> "Lowe, P" .
+<HESAInst:H-0048:Person:LoweP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:LowndesG> <http://www.aktors.org/ontology/portal#name> "Lowndes, G." .
+<HESAInst:H-0048:Person:LowndesG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:ManzB> <http://www.aktors.org/ontology/portal#name> "Manz, B." .
+<HESAInst:H-0048:Person:ManzB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:MartinJ> <http://www.aktors.org/ontology/portal#name> "Martin, J." .
+<HESAInst:H-0048:Person:MartinJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:McGinnM> <http://www.aktors.org/ontology/portal#name> "McGinn, M." .
+<HESAInst:H-0048:Person:McGinnM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:MooneyJ> <http://www.aktors.org/ontology/portal#name> "Mooney, J." .
+<HESAInst:H-0048:Person:MooneyJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:MouseS> <http://www.aktors.org/ontology/portal#name> "Mouse, S." .
+<HESAInst:H-0048:Person:MouseS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:MuskeE> <http://www.aktors.org/ontology/portal#name> "Muske, E." .
+<HESAInst:H-0048:Person:MuskeE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:NReeve> <http://www.aktors.org/ontology/portal#name> "N Reeve" .
+<HESAInst:H-0048:Person:NReeve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:ODonoghueH> <http://www.aktors.org/ontology/portal#name> "O'Donoghue, H." .
+<HESAInst:H-0048:Person:ODonoghueH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:OllerenshawC> <http://www.aktors.org/ontology/portal#name> "Ollerenshaw, C." .
+<HESAInst:H-0048:Person:OllerenshawC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:OrmeJ> <http://www.aktors.org/ontology/portal#name> "Orme, J" .
+<HESAInst:H-0048:Person:OrmeJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:PatersonA> <http://www.aktors.org/ontology/portal#name> "Paterson, A." .
+<HESAInst:H-0048:Person:PatersonA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:PedleyHM> <http://www.aktors.org/ontology/portal#name> "Pedley, H. M." .
+<HESAInst:H-0048:Person:PedleyHM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:PennyBonsall> <http://www.aktors.org/ontology/portal#name> "Penny Bonsall" .
+<HESAInst:H-0048:Person:PennyBonsall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:Pentagram> <http://www.aktors.org/ontology/portal#name> "Pentagram" .
+<HESAInst:H-0048:Person:Pentagram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:PerkinsG> <http://www.aktors.org/ontology/portal#name> "Perkins, G." .
+<HESAInst:H-0048:Person:PerkinsG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:PhillipsH> <http://www.aktors.org/ontology/portal#name> "Phillips, H." .
+<HESAInst:H-0048:Person:PhillipsH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:PicassoP> <http://www.aktors.org/ontology/portal#name> "Picasso, P." .
+<HESAInst:H-0048:Person:PicassoP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:PigottH> <http://www.aktors.org/ontology/portal#name> "Pigott, H." .
+<HESAInst:H-0048:Person:PigottH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:PimlottM> <http://www.aktors.org/ontology/portal#name> "Pimlott, M." .
+<HESAInst:H-0048:Person:PimlottM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:PinelliP> <http://www.aktors.org/ontology/portal#name> "Pinelli , P." .
+<HESAInst:H-0048:Person:PinelliP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:RebelloC> <http://www.aktors.org/ontology/portal#name> "Rebello, C." .
+<HESAInst:H-0048:Person:RebelloC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:RidleyJ> <http://www.aktors.org/ontology/portal#name> "Ridley, J." .
+<HESAInst:H-0048:Person:RidleyJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:RogersM> <http://www.aktors.org/ontology/portal#name> "Rogers, M" .
+<HESAInst:H-0048:Person:RogersM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:RopekE> <http://www.aktors.org/ontology/portal#name> "Ropek, E." .
+<HESAInst:H-0048:Person:RopekE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:RumbleA> <http://www.aktors.org/ontology/portal#name> "Rumble, A." .
+<HESAInst:H-0048:Person:RumbleA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:SSutcliffe> <http://www.aktors.org/ontology/portal#name> "S. Sutcliffe" .
+<HESAInst:H-0048:Person:SSutcliffe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:SarntheinM> <http://www.aktors.org/ontology/portal#name> "Sarnthein, M." .
+<HESAInst:H-0048:Person:SarntheinM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:SchefflerA> <http://www.aktors.org/ontology/portal#name> "Scheffler, A." .
+<HESAInst:H-0048:Person:SchefflerA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:Seawright> <http://www.aktors.org/ontology/portal#name> "Seawright" .
+<HESAInst:H-0048:Person:Seawright> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:SedgeleyP> <http://www.aktors.org/ontology/portal#name> "Sedgeley, P." .
+<HESAInst:H-0048:Person:SedgeleyP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:SerraN> <http://www.aktors.org/ontology/portal#name> "Serra, N." .
+<HESAInst:H-0048:Person:SerraN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:SlaughterR> <http://www.aktors.org/ontology/portal#name> "Slaughter, R." .
+<HESAInst:H-0048:Person:SlaughterR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:SmithH> <http://www.aktors.org/ontology/portal#name> "Smith, H." .
+<HESAInst:H-0048:Person:SmithH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:StrawbridgeF> <http://www.aktors.org/ontology/portal#name> "Strawbridge, F.." .
+<HESAInst:H-0048:Person:StrawbridgeF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:SwallowJ> <http://www.aktors.org/ontology/portal#name> "Swallow, J." .
+<HESAInst:H-0048:Person:SwallowJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:TaylorD> <http://www.aktors.org/ontology/portal#name> "Taylor, D." .
+<HESAInst:H-0048:Person:TaylorD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:TroyJ> <http://www.aktors.org/ontology/portal#name> "Troy, J." .
+<HESAInst:H-0048:Person:TroyJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:TuckerC> <http://www.aktors.org/ontology/portal#name> "Tucker, C" .
+<HESAInst:H-0048:Person:TuckerC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:TysonI> <http://www.aktors.org/ontology/portal#name> "Tyson, I." .
+<HESAInst:H-0048:Person:TysonI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:ValicentiR> <http://www.aktors.org/ontology/portal#name> "Valicenti, R." .
+<HESAInst:H-0048:Person:ValicentiR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:VaughanO> <http://www.aktors.org/ontology/portal#name> "Vaughan, O." .
+<HESAInst:H-0048:Person:VaughanO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:VynerT> <http://www.aktors.org/ontology/portal#name> "Vyner, T." .
+<HESAInst:H-0048:Person:VynerT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:WalkerSmithN> <http://www.aktors.org/ontology/portal#name> "Walker-Smith, N." .
+<HESAInst:H-0048:Person:WalkerSmithN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:WardS> <http://www.aktors.org/ontology/portal#name> "Ward, S." .
+<HESAInst:H-0048:Person:WardS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:WhitakerB> <http://www.aktors.org/ontology/portal#name> "Whitaker, B." .
+<HESAInst:H-0048:Person:WhitakerB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:WhyNotAssociates> <http://www.aktors.org/ontology/portal#name> "Why Not Associates" .
+<HESAInst:H-0048:Person:WhyNotAssociates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:WilliamsA> <http://www.aktors.org/ontology/portal#name> "Williams, A" .
+<HESAInst:H-0048:Person:WilliamsA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:WilliamsAT> <http://www.aktors.org/ontology/portal#name> "Williams,  A. T." .
+<HESAInst:H-0048:Person:WilliamsAT> <http://www.aktors.org/ontology/portal#name> "Williams, A. T." .
+<HESAInst:H-0048:Person:WilliamsAT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:WilliamsATW> <http://www.aktors.org/ontology/portal#name> "Williams A.T.W." .
+<HESAInst:H-0048:Person:WilliamsATW> <http://www.aktors.org/ontology/portal#name> "Williams, A. T. W." .
+<HESAInst:H-0048:Person:WilliamsATW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:WoodP> <http://www.aktors.org/ontology/portal#name> "Wood, P." .
+<HESAInst:H-0048:Person:WoodP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:WrightMW> <http://www.aktors.org/ontology/portal#name> "Wright, M.W." .
+<HESAInst:H-0048:Person:WrightMW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:YokomitsuM> <http://www.aktors.org/ontology/portal#name> "Yokomitsu, M." .
+<HESAInst:H-0048:Person:YokomitsuM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:YoungS> <http://www.aktors.org/ontology/portal#name> "Young, S." .
+<HESAInst:H-0048:Person:YoungS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:ZhaoM> <http://www.aktors.org/ontology/portal#name> "Zhao, M." .
+<HESAInst:H-0048:Person:ZhaoM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0048:Person:ZodererB> <http://www.aktors.org/ontology/portal#name> "Zoderer, B." .
+<HESAInst:H-0048:Person:ZodererB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0049:Person:AAlexandrou> <http://www.aktors.org/ontology/portal#name> "A. Alexandrou" .
+<HESAInst:H-0049:Person:AAlexandrou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Generic-Agent> .
+<HESAInst:H-0049:Person:AFitzgerald> <http://www.aktors.org/ontology/portal#name> "A Fitzgerald" .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/population> "678"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/population> "680"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/population> "693"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/population> "693"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/populationDate> "31"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/populationDate> "31. 12. 2006"@sk .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/populationDensity> "auto"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/populationDensity> "auto"@sk .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/postalCode> "018 12"@sk .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/postalCode> "1812"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/postcode> "1812"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/postcode> "1812"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/predvoľba> "+421-42"@sk .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/prefisso> "42"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/prefisso> "42"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/prváZmienka> "1416"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/psč> "1812"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/r_percent_C3_percent_A9gi_percent_C3_percent_B3> "Felső-Vágmente"@hu .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/r_percent_C3_percent_A9gion> "Trenčín"@fr .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/rang> "község"@hu .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/region> <http://dbpedia.org/resource/Tren%C4%8D%C3%ADn_Region> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/region> <http://dbpedia.org/resource/Tren%C4%8Diansky_kraj> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/regiono> <http://dbpedia.org/resource/Tren%C4%8D%C3%ADn> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/región> "Horné Považie"@sk .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/région> "Trenčín"@fr .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/régió> "Felső-Vágmente"@hu .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/source> "http://www.e-obce.sk"@fr .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/source> "http://www.slovakregion.sk/"@fr .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/source> "http://www.statistics.sk"@fr .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/source> <http://www.e-obce.sk> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/source> <http://www.slovakregion.sk/> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/source> <http://www.statistics.sk> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/starosta> "Peter Splavec"@fr .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/starosta> "Peter Splavec"@sk .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/statistics> "[http://www.statistics.sk/mosmis/prvav2.jsp?txtUroven&#61;440709&lstObec&#61;513687&Okruh&#61;zaklad MOŠ/MIS]"@sk .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/statistics> <http://www.statistics.sk/mosmis/prvav2.jsp?txtUroven=440709&lstObec=513687&Okruh=zaklad> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/stato> "SVK"@it .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/statuso> "Vilaĝo"@eo .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/statut> "5"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/statut> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/subarea> <http://dbpedia.org/resource/Pova%C5%BEsk%C3%A1_Bystrica_District> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/superficie> "7"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/superficie> "7.518724"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/superficie> "7518724"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/superficie> "752"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/superficie> "752"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/sz_percent_C3_percent_A9less_percent_C3_percent_A9giFok> "49"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/sz_percent_C3_percent_A9less_percent_C3_percent_A9gi_percent_C3_percent_8Dvm_percent_C3_percent_A1sodperc> "40"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/sz_percent_C3_percent_A9less_percent_C3_percent_A9gi_percent_C3_percent_8Dvperc> "11"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/szélességiFok> "49"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/szélességiFok> "49"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/szélességiÍvmásodperc> "40"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/szélességiÍvmásodperc> "40"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/szélességiÍvperc> "11"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/szélességiÍvperc> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/tailleImage> "300"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/targa> "PB"@it .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/tel> "++421-42-...."@eo .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/tengerszintFelettiMagass_percent_C3_percent_A1g> "330"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/tengerszintFelettiMagasság> "330"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/tengerszintFelettiMagasság> "330"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/ter_percent_C3_percent_BClet> "7.52"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/terület> "7.52"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/terület> "8"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/timezone> <http://dbpedia.org/resource/Central_European_Time> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/timezone> <http://dbpedia.org/resource/Stredoeur%C3%B3psky_%C4%8Das> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/timezoneDst> <http://dbpedia.org/resource/Central_European_Summer_Time> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/timezoneDst> <http://dbpedia.org/resource/Stredoeur%C3%B3psky_letn%C3%BD_%C4%8Das> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/typ> "obec"@sk .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/utcOffset> "+1"@sk .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/utcOffset> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/utcOffsetDst> "+2"@sk .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/utcOffsetDst> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Geobox> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Lang-hu> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Povazska_Bystrica_District> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Tren%C4%8D%C3%ADn-geo-stub> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Infobox_Village_et_ville_de_Slovaquie> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Szlov%C3%A1k_telep%C3%BCl%C3%A9s_infobox> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/1416> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/1467> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/1525> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/1598> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/1720> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/1784> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/1828> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/1899> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/1910> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/2001> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Jasenica> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Nagybiccse> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Obec> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Okres_Pova%C5%BEsk%C3%A1_Bystrica> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Slovaquie> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Szlov%C3%A1kia> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Tren%C4%8Diansky_kraj> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/V%C3%A1gbeszterce> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/15._sz%C3%A1zad> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Cat%C3%A9gorie:Village_de_Slovaquie> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Cat%C3%A9gorie:Village_et_ville_du_district_de_Pova%C5%BEsk%C3%A1_Bystrica> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Eviden%C4%8Dn%C3%A9_%C4%8D%C3%ADslo_vozidla> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Kateg%C3%B3ria:Obce_na_Slovensku> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Kateg%C3%B3ria:Obce_okresu_Pova%C5%BEsk%C3%A1_Bystrica> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Kateg%C3%B3ria:Szlov%C3%A1kia_telep%C3%BCl%C3%A9sei> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Pova%C5%BEie> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/R%C3%A9gion_de_Tren%C4%8D%C3%ADn> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Stredoeur%C3%B3psky_%C4%8Das> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Stredoeur%C3%B3psky_letn%C3%BD_%C4%8Das> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Szlov%C3%A1k_nyelv> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Trencs%C3%A9n_v%C3%A1rmegye> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Trencs%C3%A9ni_ker%C3%BClet> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Trianoni_b%C3%A9keszerz%C5%91d%C3%A9s> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/V%C3%A1gbesztercei_j%C3%A1r%C3%A1s> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/zemepisnáDĺžka> "18"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/zemepisnáŠírka> "49"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/property/ŝtato> <http://dbpedia.org/resource/Slovakia> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/resource/Template:Geobox> "area"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/resource/Template:Geobox> "area_round"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/resource/Template:Geobox> "category"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/resource/Template:Geobox> "country"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/resource/Template:Geobox> "country_flag"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/resource/Template:Geobox> "district"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/resource/Template:Geobox> "elevation"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/resource/Template:Geobox> "established"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/resource/Template:Geobox> "established_type"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/resource/Template:Geobox> "lat_NS"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/resource/Template:Geobox> "lat_d"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/resource/Template:Geobox> "lat_m"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/resource/Template:Geobox> "long_EW"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/resource/Template:Geobox> "long_d"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/resource/Template:Geobox> "long_m"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/resource/Template:Geobox> "map"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/resource/Template:Geobox> "map_background"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/resource/Template:Geobox> "map_caption"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/resource/Template:Geobox> "map_locator"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/resource/Template:Geobox> "name"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/resource/Template:Geobox> "population"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/resource/Template:Geobox> "population_density"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/resource/Template:Geobox> "region"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/spotlight/score#uriCount> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://dbpedia.org/spotlight/score#uriProbability> "4.2997034322554635E-8"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Villages_and_municipalities_in_Pova%C5%BEsk%C3%A1_Bystrica_District> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Villages_in_Slovakia> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.georss.org/georss/point> "49.19416666666667 18.440833333333334"@it .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.georss.org/georss/point> "49.19444444444444 18.441666666666666"@nl .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.georss.org/georss/point> "49.2 18.433333333333334" .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.georss.org/georss/point> "49.2 18.433333333333334"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GeoclassPopulatedPlace> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GeographicalArea108574314> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Location100027167> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Region108630985> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Settlement108672562> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Village108672738> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/VillagesAndMunicipalitiesInPova%C5%BEsk%C3%A1BystricaDistrict> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoGeoEntity> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoLegalActorGeo> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AdministrativeRegion> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AdministrativeArea> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/d0.owl#Location> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2000/01/rdf-schema#comment> "An Stupné amo in usa ka baryo ngan munisipalidad ha distrito han Považská Bystrica ha rehiyon han Trenčín ha nasod han Slovakia."@tl .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2000/01/rdf-schema#comment> "Osztopna község Szlovákiában, a Trencséni kerületben, a Vágbesztercei járásban, Vágbesztercétőltól 10 km-re északra. 2001-ben 691 szlovák lakosa volt."@hu .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2000/01/rdf-schema#comment> "Osztopna község Szlovákiában, a Trencséni kerületben, a Vágbesztercei járásban, Vágbesztercétőltól 10 km-re északra. 2001-ben 691 szlovák lakosa volt."@hu .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2000/01/rdf-schema#comment> "Osztopna község Szlovákiában, a Trencséni kerületben, a Vágbesztercei járásban, Vágbesztercétőltól 10 km-re északra. 2011-ben 693 lakosából 676 szlovák volt."@hu .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2000/01/rdf-schema#comment> "Stupné (Hungarian: Osztopna) is a village and municipality in Považská Bystrica District in the Trenčín Region of north-western Slovakia in Považie region."@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2000/01/rdf-schema#comment> "Stupné est un village de Slovaquie situé dans la région de Trenčín."@fr .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2000/01/rdf-schema#comment> "Stupné is a village and municipality in Považská Bystrica District in the Trenčín Region of north-western Slovakia in Považie region."@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2000/01/rdf-schema#comment> "Stupné is een Slowaakse gemeente in de regio Trenčín, en maakt deel uit van het district Považská Bystrica. Stupné telt 687 inwoners."@nl .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2000/01/rdf-schema#comment> "Stupné is een Slowaakse gemeente in de regio Trenčín, en maakt deel uit van het district Považská Bystrica. Stupné telt Sjabloon:Inwonertallen Slowaakse gemeentes inwoners."@nl .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2000/01/rdf-schema#comment> "Stupné je obec, ktorá sa nachádza v Papradňanskej doline v okrese Považská Bystrica. Najstaršia písomná zmienka o obci je z roku 1416. Okolo obce sa týčia dva vrchy. Vľavo je Žeravica 525 m n.m. a vpravo je Bukovina 642 m n.m. V obci sa nachádza kaplnka Sedembolestnej Panny Márie."@sk .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2000/01/rdf-schema#comment> "Stupné je obec, ktorá sa nachádza v Papradňanskej doline v okrese Považská Bystrica. Najstaršia písomná zmienka o obci je z roku 1416. Okolo obce sa týčia dva vrchy. Vľavo je Žeravica 525 m n.  m. a vpravo je Bukovina 642 m n.  m. V obci sa nachádza kaplnka Sedembolestnej Panny Márie."@sk .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2000/01/rdf-schema#comment> "Stupné merupakan sebuah kampung dan kawasan perbandaran yang terletak di daerah Považská Bystrica, wilayah Trenčín, Slovakia."@ms .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2000/01/rdf-schema#comment> "Stupné è un comune della Slovacchia facente parte del distretto di Považská Bystrica, nella regione di Trenčín."@it .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2000/01/rdf-schema#comment> "Stupné, hungare Osztopna [ostopna ostopna] estas malgranda vilaĝeto kaj municipo en Slovakio. Stupné {{{bildo-priskribo}}} Administrado Statuso Vilaĝo Lando Slovakio Ŝtato Slovakio Regiono Trenčín Distrikto Považská Bystrica Poŝtkodo 018 12 Aŭtokodo PB Telefona antaŭkodo ++421-42-...."@eo .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2000/01/rdf-schema#label> "Osztopna"@hu .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2000/01/rdf-schema#label> "Stupné"@en .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2000/01/rdf-schema#label> "Stupné"@eo .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2000/01/rdf-schema#label> "Stupné"@fr .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2000/01/rdf-schema#label> "Stupné"@it .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2000/01/rdf-schema#label> "Stupné"@ms .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2000/01/rdf-schema#label> "Stupné"@nl .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2000/01/rdf-schema#label> "Stupné"@sk .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2000/01/rdf-schema#label> "Stupné"@tl .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2002/07/owl#sameAs> <http://cs.dbpedia.org/resource/Stupné> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Stupn%C3%A9> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2002/07/owl#sameAs> <http://eo.dbpedia.org/resource/Stupné> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2002/07/owl#sameAs> <http://fr.dbpedia.org/resource/Stupné> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2002/07/owl#sameAs> <http://hu.dbpedia.org/resource/Osztopna> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2002/07/owl#sameAs> <http://it.dbpedia.org/resource/Stupné> .
+<http://dbpedia.org/resource/Stupn%C3%A9> <http://www.w3.org/2002/07/owl#sameAs> <http://linkedgeodata.org/triplify/node26036559> .

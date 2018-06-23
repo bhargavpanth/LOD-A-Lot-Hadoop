@@ -1,47 +1,108 @@
 #!/usr/bin/python
 
 import sys
-
-def mapper(line):
-    # remove extra spaces in the object field
-    data = line.strip().split(' ')
-    print data
-    if len(data) == 4:
-        sub, pred, obj, term = data
-        blank_node_subject = str()
-        if sub.startswith('<'):
-            blank_node_subject = sub.replace('<', '').replace('>', '')
-            print '{0}\t{1}\t{2}'.format(sub.replace('<', '').replace('>', ''), pred.replace(
-                '<', '').replace('>', ''), obj.replace('<', '').replace('>', '')).split('\t')
-        elif sub.startswith('_'):
-            print '{0}\t{1}\t{2}'.format(blank_node_subject, pred.replace('<', '').replace(
-                '>', ''), obj.replace('<', '').replace('>', '')).split('\t')
-
-# subject - start with <(http/https) / string>
-# predicate - start with <http/https>
-# object - start with <string / (http/https)>
+from sets import Set
+from urlparse import urlparse
 
 current_uri = None
+uri_list = Set([])
+literals_list = Set([])
+resource_list = Set([])
+string_literals = Set([])
+vocab_list = Set([])
 
-def split_mapper(triple):
-    # splits string into sub, pred, obj
-    # remove terminating character
-    rm_term_char = triple.replace(' .', '')
-    words = filter(None, [z for y in rm_term_char.split("<") for z in y.split(">")])
-    final = [x for x in words if x != ' ']
-    if len(final) == 3:
-        return final
-    else:
-        print 'Error parsing : ', final
-    # sub, pred, obj = final
+class Obtain_Unique_URI(object):
     
 
-def unique_uri(triple):
-    pass
+    def split_mapper(self, triple):
+        # splits string into sub, pred, obj
+        # remove terminating character
+        rm_term_char = triple.replace(' .', '')
+        words = filter(None, [z for y in rm_term_char.split("<") for z in y.split(">")])
+        final = [x for x in words if x != ' ']
+        if len(final) == 3:
+            return final
+        elif len(final) == 4:
+            # print final[2]
+            del final[2]
+            # print final
+            return final
+        else:
+            print 'Error parsing : ', final
+        # sub, pred, obj = final
+        
+
+    def check_subject_pattern(self, sub):
+        # check if subject starts with namespace/uri/_
+        # if sub.startswith('http:' or 'https:'):
+        # global current_uri
+        comp_string = str(sub.split(':')[0])
+        if comp_string.startswith("http" or "https"):
+            # subject is a URI
+            if '#' not in sub:
+                parsed_uri = urlparse(sub)
+                domain = '{uri.scheme}://{uri.netloc}/'.format(uri=parsed_uri)
+                current_uri = domain
+                return domain
+            else:
+                current_uri = domain
+                return sub.split('#')[0]
+        elif sub.startswith('_'):
+            # subject is a blank node - assign previous subject
+            # print current_uri
+            return current_uri
+        else:
+            current_uri = sub.split(':')[0]
+            return sub.split(':')[0]
+
+
+
+    def unique_uri(self, triple):
+        # subject - start with <(http/https) / string>
+        # predicate - start with <http/https>
+        # object - start with <string / (http/https)>
+        # global current_uri
+        global uri_list
+
+        # print self.current_uri
+        global current_uri
+
+        if len(triple) == 3:
+            sub, pred, obj = triple
+            # check if sub starts with <(http/https) / blank_node / string>
+            # print(self.check_subject_pattern(sub))
+            if current_uri and current_uri == self.check_subject_pattern(sub):
+                # add predicate and object to the list
+                predicate = pred.split('#')[0]
+
+                if "#" not in pred:
+                    resource_list.add(pred)
+                elif "#" in pred:
+                    vocab_list.add(pred)
+
+                # if predicate.startswith('a'):
+                #     # rdfs class
+                #     uri_list.add('http://www.w3.org/2000/01/rdf-schema#')
+                # elif predicate.startswith('http' or 'https'):
+                #     uri_list.add(pred.split('#')[0])
+                # add object
+                # print obj
+                if obj.startswith('http' or 'https'):
+                    literals_list.add(obj.split('#')[0])
+                else:
+                    string_literals.add(obj)
+            else:
+                current_uri = self.check_subject_pattern(sub)
 
 
 def main():
-    split_mapper(sys.argv[1])
+    global uri_list
+    with open('./data/dataset.n3') as file:
+        for triple in file:
+            formatted_triple = Obtain_Unique_URI().split_mapper(triple.strip())
+            # print formatted_triple
+            Obtain_Unique_URI().unique_uri(formatted_triple)
+    print string_literals
 
 if __name__ == '__main__':
     main()
