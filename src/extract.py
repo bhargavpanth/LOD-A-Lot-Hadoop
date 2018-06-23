@@ -5,7 +5,7 @@ from sets import Set
 from urlparse import urlparse
 
 current_uri = None
-uri_list = Set([])
+
 literals_list = Set([])
 resource_list = Set([])
 vocab_list = Set([])
@@ -86,18 +86,14 @@ class Obtain_Unique_URI(object):
 
 
 def main():
-    global uri_list
     with open('./data/dataset.n3') as file:
         for triple in file:
             formatted_triple = Obtain_Unique_URI().split_mapper(triple.strip())
             # print formatted_triple
             Obtain_Unique_URI().unique_uri(formatted_triple)
-    print vocab_list
-    print '--------'
-    print resource_list
-    print '--------'
-    print literals_list
-    print '--------'
+
+    for each_literal in literals_list:
+        print each_literal
 
 if __name__ == '__main__':
     main()
