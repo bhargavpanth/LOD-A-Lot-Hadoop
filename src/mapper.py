@@ -1,24 +1,47 @@
 #!/usr/bin/python
 
 import sys
-import re
 
-def mapper():
-    for line in sys.stdin:
-        data = line.strip().split(' ')
-        if len(data) != 5:
-            continue
-        sub, pred, obj, url, term = data
+def mapper(line):
+    # remove extra spaces in the object field
+    data = line.strip().split(' ')
+    print data
+    if len(data) == 4:
+        sub, pred, obj, term = data
         blank_node_subject = str()
         if sub.startswith('<'):
             blank_node_subject = sub.replace('<', '').replace('>', '')
-            # Object format can be of the following type - case handled in reduce part - "A-Ha"^^<http://www.w3.org/2001/XMLSchema#string>
             print '{0}\t{1}\t{2}'.format(sub.replace('<', '').replace('>', ''), pred.replace(
                 '<', '').replace('>', ''), obj.replace('<', '').replace('>', '')).split('\t')
-        # blank node
         elif sub.startswith('_'):
             print '{0}\t{1}\t{2}'.format(blank_node_subject, pred.replace('<', '').replace(
                 '>', ''), obj.replace('<', '').replace('>', '')).split('\t')
-        else:
-            continue            
-            
+
+# subject - start with <(http/https) / string>
+# predicate - start with <http/https>
+# object - start with <string / (http/https)>
+
+current_uri = None
+
+def split_mapper(triple):
+    # splits string into sub, pred, obj
+    # remove terminating character
+    rm_term_char = triple.replace(' .', '')
+    words = filter(None, [z for y in rm_term_char.split("<") for z in y.split(">")])
+    final = [x for x in words if x != ' ']
+    if len(final) == 3:
+        return final
+    else:
+        print 'Error parsing : ', final
+    # sub, pred, obj = final
+    
+
+def unique_uri(triple):
+    pass
+
+
+def main():
+    split_mapper(sys.argv[1])
+
+if __name__ == '__main__':
+    main()
