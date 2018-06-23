@@ -8,7 +8,6 @@ current_uri = None
 uri_list = Set([])
 literals_list = Set([])
 resource_list = Set([])
-string_literals = Set([])
 vocab_list = Set([])
 
 class Obtain_Unique_URI(object):
@@ -61,11 +60,12 @@ class Obtain_Unique_URI(object):
         # subject - start with <(http/https) / string>
         # predicate - start with <http/https>
         # object - start with <string / (http/https)>
-        # global current_uri
-        global uri_list
 
-        # print self.current_uri
         global current_uri
+
+        global resource_list
+        global vocab_list
+        global literals_list
 
         if len(triple) == 3:
             sub, pred, obj = triple
@@ -73,24 +73,14 @@ class Obtain_Unique_URI(object):
             # print(self.check_subject_pattern(sub))
             if current_uri and current_uri == self.check_subject_pattern(sub):
                 # add predicate and object to the list
-                predicate = pred.split('#')[0]
-
                 if "#" not in pred:
-                    resource_list.add(pred)
+                    resource_list.add(pred.split('#')[0])
                 elif "#" in pred:
-                    vocab_list.add(pred)
-
-                # if predicate.startswith('a'):
-                #     # rdfs class
-                #     uri_list.add('http://www.w3.org/2000/01/rdf-schema#')
-                # elif predicate.startswith('http' or 'https'):
-                #     uri_list.add(pred.split('#')[0])
-                # add object
-                # print obj
+                    vocab_list.add(pred.split('#')[0])
                 if obj.startswith('http' or 'https'):
-                    literals_list.add(obj.split('#')[0])
+                    resource_list.add(obj.split('#')[0])
                 else:
-                    string_literals.add(obj)
+                    literals_list.add(obj)
             else:
                 current_uri = self.check_subject_pattern(sub)
 
@@ -102,7 +92,12 @@ def main():
             formatted_triple = Obtain_Unique_URI().split_mapper(triple.strip())
             # print formatted_triple
             Obtain_Unique_URI().unique_uri(formatted_triple)
-    print string_literals
+    print vocab_list
+    print '--------'
+    print resource_list
+    print '--------'
+    print literals_list
+    print '--------'
 
 if __name__ == '__main__':
     main()
