@@ -73,16 +73,26 @@ class Obtain_Unique_URI(object):
             # print(self.check_subject_pattern(sub))
             if current_uri and current_uri == self.check_subject_pattern(sub):
                 # add predicate and object to the list
+                
                 if "#" not in pred:
                     resource_list.add(pred.split('#')[0])
+                
                 elif "#" in pred:
                     vocab_list.add(pred.split('#')[0])
+                
                 if obj.startswith('http' or 'https'):
                     resource_list.add(obj.split('#')[0])
+                
                 else:
                     literals_list.add(obj)
+            
             else:
+                # change in dataset
                 current_uri = self.check_subject_pattern(sub)
+                print vocab_list
+                vocab_list = Set([])
+                literals_list = Set([])
+                resource_list = Set([])
 
 
 def main():
@@ -92,8 +102,12 @@ def main():
             # print formatted_triple
             Obtain_Unique_URI().unique_uri(formatted_triple)
 
-    for each_literal in literals_list:
-        print each_literal
+    # for each_vocab in vocab_list:
+    #     print each_vocab
+
+    # for each_literal in literals_list:
+    #     print each_literal
+    print vocab_list
 
 if __name__ == '__main__':
     main()
