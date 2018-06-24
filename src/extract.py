@@ -72,7 +72,7 @@ class Obtain_Unique_URI(object):
         global vocab_list
         global literals_list
 
-        if len(triple) == 3:
+        if len(triple) == 3 and type(triple) not None:
             sub, pred, obj = triple
             # check if sub starts with <(http/https) / blank_node / string>
             # print(self.check_subject_pattern(sub))
