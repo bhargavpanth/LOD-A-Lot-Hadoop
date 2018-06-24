@@ -41,6 +41,7 @@ class Obtain_Unique_URI(object):
         # if sub.startswith('http:' or 'https:'):
         # global current_uri
         comp_string = str(sub.split(':')[0])
+        domain = ''
         if comp_string.startswith("http" or "https"):
             # subject is a URI
             if '#' not in sub:
