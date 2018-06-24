@@ -29,8 +29,8 @@ class Obtain_Unique_URI(object):
                 del final[2]
                 # print final
                 return final
-            else:
-                print 'Error parsing : ', final
+            # else:
+            #     print 'Error parsing : ', final
         elif rm_term_char.startswith('_'):
             pass
         # sub, pred, obj = final
