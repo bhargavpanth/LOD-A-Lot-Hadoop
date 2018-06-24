@@ -101,7 +101,7 @@ class Obtain_Unique_URI(object):
 
 
 def main():
-    with open('./data/dataset.n3') as file:
+    with open(sys.argv[1]) as file:
         for triple in file:
             formatted_triple = Obtain_Unique_URI().split_mapper(triple.strip())
             # print formatted_triple
