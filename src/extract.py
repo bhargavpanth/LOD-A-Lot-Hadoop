@@ -17,17 +17,22 @@ class Obtain_Unique_URI(object):
         # splits string into sub, pred, obj
         # remove terminating character
         rm_term_char = triple.replace(' .', '')
-        words = filter(None, [z for y in rm_term_char.split("<") for z in y.split(">")])
-        final = [x for x in words if x != ' ']
-        if len(final) == 3:
-            return final
-        elif len(final) == 4:
-            # print final[2]
-            del final[2]
-            # print final
-            return final
-        else:
-            print 'Error parsing : ', final
+        global current_uri
+
+        if rm_term_char.startswith('<'):    
+            words = filter(None, [z for y in rm_term_char.split("<") for z in y.split(">")])
+            final = [x for x in words if x != ' ']
+            if len(final) == 3:
+                return final
+            elif len(final) == 4:
+                # print final[2]
+                del final[2]
+                # print final
+                return final
+            else:
+                print 'Error parsing : ', final
+        elif rm_term_char.startswith('_'):
+            pass
         # sub, pred, obj = final
         
 
