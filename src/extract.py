@@ -96,7 +96,7 @@ class Obtain_Unique_URI(object):
                 # change in dataset
                 current_uri = self.check_subject_pattern(sub)
                 print self.check_subject_pattern(sub)
-                print vocab_list
+                # print vocab_list
                 print '---------'
                 vocab_list = Set([])
                 literals_list = Set([])
