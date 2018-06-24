@@ -112,7 +112,7 @@ def main():
 
     # for each_literal in literals_list:
     #     print each_literal
-    print vocab_list
+    # print vocab_list
 
 if __name__ == '__main__':
     main()
