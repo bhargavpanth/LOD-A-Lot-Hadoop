@@ -42,9 +42,10 @@ def get_dataset_name(triple):
 
 def clean_up_object(obj):
     if obj.startswith('http' or 'https'):
-        tld = urlparse(obj)
-        domain = '{uri.scheme}://{uri.netloc}/'.format(uri=tld)
-        return domain
+        return obj.split('#')[0] + '#'
+        # tld = urlparse(obj)
+        # domain = '{uri.scheme}://{uri.netloc}/'.format(uri=tld)
+        # return domain
 
 
 def main():
@@ -55,21 +56,24 @@ def main():
             unwanted_list = ['http://www.w3.org/1999/02/22-rdf-syntax-ns#type','rdfs:type','owl:sameAs','http://www.w3.org/2002/07/owl#sameAs','https://www.w3.org/1999/02/22-rdf-syntax-ns#type','rdf:type']
             clean_triple = get_clean_triple(triple.strip())
             new_dataset_name = get_dataset_name(clean_triple)
-            
-            if dataset_name is not None and dataset_name is new_dataset_name:
+            if dataset_name == new_dataset_name:
                 sub, pred, obj = clean_triple
                 if any(pred in s for s in unwanted_list):
                     ob = clean_up_object(obj)
                     vocab_list.add(ob)
                 else:
-                    vocab_list.add(pred)
-            elif dataset_name is None:
+                    pd = clean_up_object(pred)
+                    vocab_list.add(pd)
+            else:
+                if vocab_list:
+                    print vocab_list
+                    # for each_vocab in vocab_list:
+                    #     print each_vocab
+                vocab_list = Set()
                 dataset_name = new_dataset_name
-                
-            # else:
-            #     dataset_name = new_dataset_name
-                # print vocab_list
-
+        print vocab_list
+        # for each_vocab in vocab_list:
+        #     print each_vocab
 
 
 if __name__ == '__main__':
