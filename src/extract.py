@@ -19,7 +19,7 @@ class Obtain_Unique_URI(object):
         rm_term_char = triple.replace(' .', '')
         global current_uri
 
-        if rm_term_char.startswith('<'):    
+        if rm_term_char.startswith('<'): 
             words = filter(None, [z for y in rm_term_char.split("<") for z in y.split(">")])
             final = [x for x in words if x != ' ']
             if len(final) == 3:
@@ -97,10 +97,10 @@ class Obtain_Unique_URI(object):
                 current_uri = self.check_subject_pattern(sub)
                 print self.check_subject_pattern(sub)
                 # print vocab_list
-                print '---------'
-                vocab_list = Set([])
-                literals_list = Set([])
-                resource_list = Set([])
+                # print '---------'
+                # vocab_list = Set([])
+                # literals_list = Set([])
+                # resource_list = Set([])
 
 
 def main():
@@ -110,8 +110,8 @@ def main():
             # print formatted_triple
             Obtain_Unique_URI().unique_uri(formatted_triple)
 
-    # for each_vocab in vocab_list:
-    #     print each_vocab
+    for each_vocab in vocab_list:
+        print each_vocab
 
     # for each_literal in literals_list:
     #     print each_literal
