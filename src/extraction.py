@@ -67,13 +67,9 @@ def main():
             else:
                 if vocab_list:
                     print vocab_list
-                    # for each_vocab in vocab_list:
-                    #     print each_vocab
                 vocab_list = Set()
                 dataset_name = new_dataset_name
         print vocab_list
-        # for each_vocab in vocab_list:
-        #     print each_vocab
 
 
 if __name__ == '__main__':
