@@ -81,15 +81,19 @@ def main():
             clean_triple = get_clean_triple(triple.strip())
             new_dataset_name = get_dataset_name(clean_triple)
             if dataset_name == new_dataset_name:
-                sub, pred, obj = clean_triple
-                if any(pred in s for s in unwanted_list):
-                    ob = clean_up_object(obj)
-                    insert(new_dataset_name, ob)
-                    vocab_list.add(ob)
+                try:
+                    sub, pred, obj = clean_triple
+                except Exception as e:
+                    pass
                 else:
-                    pd = clean_up_object(pred)
-                    insert(new_dataset_name, pd)
-                    vocab_list.add(pd)
+                    if any(pred in s for s in unwanted_list):
+                        ob = clean_up_object(obj)
+                        insert(new_dataset_name, ob)
+                        vocab_list.add(ob)
+                    else:
+                        pd = clean_up_object(pred)
+                        insert(new_dataset_name, pd)
+                        vocab_list.add(pd)
             else:
                 # if vocab_list:
                 #     print vocab_list
