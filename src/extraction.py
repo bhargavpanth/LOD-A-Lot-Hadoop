@@ -74,8 +74,11 @@ def insert(dataset_name, vocab):
 def main():
     dataset_name = None
     vocab_list = Set()
+    count = 0
     with open(sys.argv[1]) as file:
         for triple in file:
+            count += 1
+            print count
             unwanted_list = ['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'rdfs:type', 'owl:sameAs',
                              'http://www.w3.org/2002/07/owl#sameAs', 'https://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'rdf:type']
             clean_triple = get_clean_triple(triple.strip())
