@@ -30,17 +30,21 @@ def get_clean_triple(triple):
 
 
 def get_dataset_name(triple):
-    sub, pred, obj = triple
-    global dataset_name
-
-    if sub.startswith("http" or "https"):
-        tld = urlparse(sub)
-        domain = '{uri.scheme}://{uri.netloc}/'.format(uri=tld)
-        dataset_name = domain
-        return domain
+    try:
+        sub, pred, obj = triple
+    except Exception as e:
+        pass
     else:
-        dataset_name = sub.split(':')[0]
-        return sub.split(':')[0]
+        global dataset_name
+
+        if sub.startswith("http" or "https"):
+            tld = urlparse(sub)
+            domain = '{uri.scheme}://{uri.netloc}/'.format(uri=tld)
+            dataset_name = domain
+            return domain
+        else:
+            dataset_name = sub.split(':')[0]
+            return sub.split(':')[0]
 
 
 def clean_up_object(obj):
