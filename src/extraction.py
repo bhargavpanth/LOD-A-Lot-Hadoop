@@ -57,7 +57,7 @@ def clean_up_object(obj):
 
 def insert(dataset_name, vocab):
     client = MongoClient('localhost', 27017)
-    db = client['lod']
+    db = client['lodalot']
     collection = db['vocab']
     try:
         collection.update_one({'dataset': str(dataset_name), 'vocab': vocab}, {
